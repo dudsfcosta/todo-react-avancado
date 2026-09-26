@@ -1,14 +1,20 @@
-# Todo React Avançado
+✅ Todo React Avançado
 
-Aplicação de lista de tarefas desenvolvida com React, aplicando Hooks avançados, Context API, Hooks customizados e memoização.
+## 📖 Sobre
 
-## Tecnologias
-- React
-- JavaScript
-- Vite
+Todo list desenvolvido no módulo 18 ('React avançado') do curso de Front-End na EBAC.
 
-## Como rodar o projeto
+## 🚀 Como rodar
 
 ```bash
 npm install
 npm run dev
+```
+
+## 🛠️ Tecnologias
+
+React • JavaScript
+
+## 💡 O que aprendi
+
+- Padrões avançados de React aplicados a um caso real de CRUD
